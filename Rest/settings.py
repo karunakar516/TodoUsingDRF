@@ -85,6 +85,12 @@ CORS_ALLOWED_ORIGINS=[
 MENTION ALLOWED ORIGINS LIKE http://localhost:5500
 ]
 '''
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 5c1ffb1 (cors allowing to all)
 
 DATABASES = {
     'default': {
