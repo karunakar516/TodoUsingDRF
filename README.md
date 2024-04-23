@@ -5,6 +5,6 @@ You have to runservers one using python manage.py runserver which create a restf
 
 and another thing you have to do is navigate to ur frontend file and run live server
 
-for this in django you should include cors headers and also in CORS_ALLOWED_ORIGINS you should include local host so as to accept it
+for this in django you should include cors headers and also in CORS_ALLOWED_ORIGINS you should include local host so as to accept it.
 
 
